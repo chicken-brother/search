@@ -1,0 +1,131 @@
+*{
+    font-family: Roboto, serif, sans-serif;
+}
+#maindiv{
+    text-align: center;
+    margin-top: 133px;
+    
+}
+#links{
+    text-align: right;
+    font-size: 14px;
+    margin: 10px;
+}
+#links > a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#searchbar{
+    margin-top: 24px;
+    width: 550px;
+    height: 10px;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border-color: rgba(0, 0, 0, 0.3);
+    outline: none;
+}
+
+.button{
+    margin-top: 24px;
+    color: rgb(95, 99, 104);
+    background-color: rgb(242, 242, 242);
+    border:none;
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 4px;
+}
+.button:hover{
+    color: black;
+}
+
+image{
+    width: 272px;
+}
+#img{
+    width: 91px;
+    float:left;
+}
+
+
+
+
+#title{
+    color: rgb(217, 48, 37);
+    text-align: left;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.margin{
+   margin-bottom: 20px;
+}
+
+.inputfield{
+    width: 100%;
+    font-size: 13px;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.inputfield:focus{
+    outline-color:  rgb(72, 137, 241);
+}
+.wrapper{
+    padding: 20px;
+    margin: 20px;
+}
+.opt1{
+    font-size: 13px;
+}
+.opt2{
+    font-size: 11px;
+}
+.opt3{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#advbut{
+    margin-top: 24px;
+    color: white;
+    background-color: rgb(72, 137, 241);
+    border:none;
+    font-size: 11px;
+    padding: 7px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 4px;
+}
+
+
+
+
+.imgcontainer {
+    position: relative;
+    text-align: center;
+    color: rgb(66, 133, 244);
+    width: 272px;
+    margin-left: auto; margin-right: auto;
+  }
+
+  .imgtext {
+    position: absolute;
+    bottom: 2px;
+    right: 2px;
+  }
+
+  #searchbar2{
+    margin-top: 24px;
+    width: 480px;
+    height: 10px;
+    border-radius: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border-color: rgba(0, 0, 0, 0.3);
+    outline: none;
+}
